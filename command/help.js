@@ -184,6 +184,7 @@ ${mundur}
 
 *SEARCH MENU*${petik}
  • ${prefix}lirik
+  • ${prefix}wallpaper
  • ${prefix}grupwa
  • ${prefix}pinterest
  • ${prefix}ytsearch${petik}
@@ -518,4 +519,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `10day 5k, 20day 10k, 30day 15k`
