@@ -1,5 +1,5 @@
 {
-  "name": "Haruka-Md",
+  "name": "GattNzhra-BOT",
   "version": "10.0.1",
   "description": "whatsapp tob with multi device.",
   "main": "haruka.js",
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "AgatZ",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "^5.0.0",
